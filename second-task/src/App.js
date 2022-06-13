@@ -1,8 +1,9 @@
+import Testimonio from "./Componentes/Testimonio";
 
 function App() {
   return (
     <div className="App">
-
+      <Testimonio />
     </div>
   );
 }
