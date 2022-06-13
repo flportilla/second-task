@@ -1,7 +1,7 @@
 import React from 'react'
 import witness1 from '../img/witness1.png'
-
-function Testimonio() {
+import '../stylesheets/witness.css'
+function Witness() {
   return (
     <div className='witness_container'>
       <img
@@ -25,4 +25,4 @@ function Testimonio() {
   )
 }
 
-export default Testimonio
+export default Witness
