@@ -6,13 +6,12 @@
   align-items: center;
   justify-content: center;
   background-color: #ffffff;
-  box-shadow: 0 3px 13px 1px rgb(0 0 0 / 0.9);
+  box-shadow: 0 3px 13px 1px rgb(0 0 0 / 0.09);
 }
 
 .witness_img {
   width: auto;
   height: 100%;
-
 }
 
 .witness_text_container {

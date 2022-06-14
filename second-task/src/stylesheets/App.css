@@ -11,6 +11,7 @@ body {
 }
 
 h1 {
+  text-align: center;
   max-width: 940px;
   font-size: 2.5em;
   font-family: Lato, sans-serif;
@@ -22,7 +23,7 @@ h1 {
 .App {
   min-height: 100vh;
   display: flex;
-  flex-wrap: wrap;
+  flex-flow: column wrap;
   align-items: center;
   justify-content: center;
 }
