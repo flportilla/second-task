@@ -1,7 +1,10 @@
 import Witness from "./Components/witness";
 import './/stylesheets/App.css';
+// @ts-ignore
 import shawnPic from '../src/img/Shawn.png';
+// @ts-ignore
 import sarahPic from '../src/img/Sarah.png';
+// @ts-ignore
 import emmaPic from '../src/img/Emma.png';
 
 const shawn = {

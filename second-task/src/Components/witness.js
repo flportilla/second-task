@@ -12,16 +12,9 @@ function Witness({ img, name, rank, company, description }) {
         src={img}
       />
       <div className='witness_text_container'>
-        <p className='witness_name'>
-          {name}
-        </p>
-        <p className='witness_rank'>
-          {rank} <b>{company}</b>
-        </p>
-        <p className='witness_text'>
-          "{description}"
-        </p>
-
+        <p className='witness_name'>{name}</p>
+        <p className='witness_rank'>{rank} <b>{company}</b></p>
+        <p className='witness_text'>"{description}"</p>
       </div>
     </div>
   )
